@@ -8,7 +8,7 @@ This branch of the repository containt two different projects:
 
 **About project 1: Classification Comparison**
 
-There is one file on the repository regarding this project
+There is one file in the repository regarding this project
 - Classification_Comparison.ipynb --> Contains the Notebook with the code and the Conclusions
 
 The dataset was composed of 1000 samples with 21 features each both numerical
