@@ -21,7 +21,7 @@ one is best for this dataset.
 
 There are 2 files in the repository regarding this project:
 - Financial Time Series Final Report.pdf --> contains a final report of the project
--  --> contains the notebook with the code
+- Financial_Time_Series_Forecasting --> contains the notebook with the code
 
 The goal of the project was to use time series data of stock returns to build a model that
 accurately predicts future returns.
