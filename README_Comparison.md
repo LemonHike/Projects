@@ -1,5 +1,4 @@
-# Projects
-This is a repository containing some of my projects
+# CLASSIFICATION COMPARISON
 
 This dataset is composed of 1000 samples with 21 features each. 
 The first column is the sample id. The second column in the dataset represents the label. There
