@@ -13,6 +13,7 @@ There is one file in the repository regarding this project
 
 The dataset was composed of 1000 samples with 21 features each both numerical
 and categorical.
+
 The task was the following: compare the performance of Logistic Regression  with that of
 a Random Forest. Try to optimize both algorithms' parameters and determine which 
 one is best for this dataset. 
