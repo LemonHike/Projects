@@ -17,7 +17,7 @@ one is best for this dataset.
 
 
 
-About project 2: Financial Time-Series Forecasting
+\bf{About project 2: Financial Time-Series Forecasting}
 
 There are 2 files in the repository regarding this project:
 - Financial Time Series Final Report.pdf --> contains a final report of the project
