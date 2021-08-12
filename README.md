@@ -4,7 +4,7 @@ This branch of the repository containt two different projects:
 1) Classification Comparison
 2) Finantial Time Series Forecast
 
-About project 1: Classification Comparison
+**About project 1: Classification Comparison**
 
 There is one file on the repository regarding this project
 - Classification_Comparison.ipynb --> Contains the Notebook with the code and the Conclusions
@@ -17,7 +17,7 @@ one is best for this dataset.
 
 
 
-\bf{About project 2: Financial Time-Series Forecasting}
+**About project 2: Financial Time-Series Forecasting**
 
 There are 2 files in the repository regarding this project:
 - Financial Time Series Final Report.pdf --> contains a final report of the project
