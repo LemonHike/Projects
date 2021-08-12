@@ -7,6 +7,6 @@ We decided to test the relevance of two models:
 1) Phillips Curve
 2) New Kaynesian Phillips Curve --> This is the part I worked on (last 4 slides)
 
-In this repository there are 3 files:
+In this repository there are 2 files:
 - Econometrics Japan Assignment.pdf --> contains the final report of the project
 - japan_econometrics.R --> contains the R code used to study the model
