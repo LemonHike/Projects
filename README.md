@@ -1,8 +1,10 @@
-# CLASSIFICATION COMPARISON
 
 This branch of the repository containt two different projects:
 1) Classification Comparison
 2) Finantial Time Series Forecast
+
+# CLASSIFICATION COMPARISON
+
 
 **About project 1: Classification Comparison**
 
@@ -15,6 +17,7 @@ The task was the following: compare the performance of Logistic Regression  with
 a Random Forest. Try to optimize both algorithms' parameters and determine which 
 one is best for this dataset. 
 
+# FINANCIAL TIME SERIES FORECASTING
 
 
 **About project 2: Financial Time-Series Forecasting**
