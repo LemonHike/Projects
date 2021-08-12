@@ -2,6 +2,7 @@
 
 This is a group project whose goal was to study the relationship between inflation and 
 unemplyment in japan using econometrics tools; mainly OLS.
+
 We decided to test the relevance of two models:
 1) Phillips Curve
 2) New Kaynesian Phillips Curve --> This is the part I worked on (last 4 slides)
