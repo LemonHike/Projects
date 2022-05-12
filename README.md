@@ -1,7 +1,8 @@
 
-This branch of the repository containt two different projects:
+This branch of the repository containt three different projects:
 1) Classification Comparison
 2) Finantial Time Series Forecast
+3) Customer Churn Prediction
 
 # CLASSIFICATION COMPARISON
 
@@ -38,5 +39,7 @@ The task is to predict the value in the column indexed by ‘50’ (the 51st tim
 
 
 # Customer Churn Prediction
+
+**About project 3: Customer Churn Prediction**
 
 The ultimate goal of the project is to predict customer attrition for credit card services. For our analysis, we use a dataset of 10,000 customers with 19 features. We use the Multilayer Perceptron, Gradient Boosting, and Regression Tree to demonstrate which customers are more likely to churn.   
