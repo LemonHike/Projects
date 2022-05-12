@@ -42,4 +42,8 @@ The task is to predict the value in the column indexed by ‘50’ (the 51st tim
 
 **About project 3: Customer Churn Prediction**
 
+There is one file in the repository regarding this project: 
+- Customer Churn Prediction.pdf --> contains the final report of the project
+Note: the project was carried out with the KNIME software, therefore there is no code.
+
 The ultimate goal of the project is to predict customer attrition for credit card services. For our analysis, we use a dataset of 10,000 customers with 19 features. We use the Multilayer Perceptron, Gradient Boosting, and Regression Tree to demonstrate which customers are more likely to churn.   
